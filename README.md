@@ -1,21 +1,37 @@
 # Student-Management-System
-ASP.NET MVC CRUD application using SQL Server &amp; Entity Framework.
+ASP.NET MVC & Web API CRUD application using SQL Server &amp; Entity Framework.
 
 # Student Management System
-A CRUD-based web application developed during my internship.
+
+A web-based student record management application developed using ASP.NET MVC, ASP.NET Web API, and SQL Server. The system is designed to manage student data efficiently with a structured architecture and secure data handling.
 
 ## Features
-- Add Student
-- View Student List
-- Edit Student
-- Delete Student
+
+- Create, Read, Update, Delete (CRUD) operations for student records  
+- Resume file upload and storage functionality  
+- Student photo upload and management  
+- RESTful API integration for data operations  
+- SQL Server database connectivity using Entity Framework  
+- Server-side and client-side form validation  
+- Structured MVC architecture with clear separation of concerns  
 
 ## Technologies Used
-- ASP.NET MVC
-- Entity Framework
-- SQL Server
+
+- ASP.NET MVC  
+- ASP.NET Web API  
+- Entity Framework  
+- SQL Server  
+- Razor View Engine  
+- Git (Version Control)  
 
 ## My Contribution
-- Implemented CRUD operations
-- Worked with Models, Views, and Controllers
-- Integrated database using Entity Framework.
+
+- Developed backend modules using ASP.NET MVC and Web API  
+- Implemented complete CRUD functionality for student records  
+- Designed and implemented resume and photo upload features  
+- Integrated Entity Framework with SQL Server database  
+- Contributed to database schema design  
+- Managed version control using Git in a collaborative environment.
+
+
+  
